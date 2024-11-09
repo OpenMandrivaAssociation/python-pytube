@@ -22,7 +22,7 @@ A lightweight, dependency-free Python library (and command-line utility) for dow
 #--------------------------------------------------------------------
 
 %prep
-%autosetup -n pypdf-%{version} -p1
+%autosetup -n pytube-%{version} -p1
 
 %build
 %py_build
