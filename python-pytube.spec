@@ -17,8 +17,8 @@ A lightweight, dependency-free Python library (and command-line utility) for dow
 #--------------------------------------------------------------------
 
 %files
-#{python_sitelib}/pypdf-%{version}.dist-info
-#{python_sitelib}/pypdf/
+%{python_sitelib}/pytube-%{version}-py*.*.egg-info
+%{python_sitelib}/pytube//
 #--------------------------------------------------------------------
 
 %prep
