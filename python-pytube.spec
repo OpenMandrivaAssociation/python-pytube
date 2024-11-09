@@ -4,7 +4,7 @@ Name:		python-pytube
 Version:	15.0.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/p/pytube/pytube-%{version}.tar.gz
-License:	BSD
+License:	The Unlicense
 Group:		Development/Python
 Url:		https://pytube.io/
 Provides:	%{module}
