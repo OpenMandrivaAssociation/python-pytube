@@ -2,7 +2,7 @@
 Summary:	pytube is a lightweight, Pythonic, dependency-free, library (and command-line utility) for downloading YouTube Videos.
 Name:		python-pytube
 Version:	15.0.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/pytube/pytube-%{version}.tar.gz
 License:	The Unlicense
 Group:		Development/Python
