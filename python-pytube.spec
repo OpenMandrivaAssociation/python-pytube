@@ -9,6 +9,7 @@ Group:		Development/Python
 Url:		https://pytube.io/
 Provides:	%{module}
 BuildRequires:	pkgconfig(python)
+BuildRequires:  python%{pyver}(setuptools)
 BuildArch:	noarch
 
 %description
